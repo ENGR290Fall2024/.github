@@ -37,7 +37,7 @@ The goal of this project is to design and construct a hovercraft capable of auto
 [![Watch the hovercraft in action!](https://img.youtube.com/vi/7OipNl-lfNY/hqdefault.jpg)](https://youtube.com/shorts/7OipNl-lfNY?feature=share)
 
 ### 📊 Demo Simulation
-[View the simulation results!](#) *(Add simulation link here)*
+![Simulation Video](media/simulation.mp4)
 
 ---
 
