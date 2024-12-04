@@ -35,7 +35,11 @@ The goal of this project is to design and construct a hovercraft capable of auto
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo <p align="center">
+  <a href="https://www.youtube.com/shorts/7OipNl-lfNY?feature=share" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Video"/>
+  </a>
+</p>
 
 ### 🏁 Demo Competition Video
 https://github.com/user-attachments/assets/4310a5a0-ce34-4bc3-b325-3abe8b695321
