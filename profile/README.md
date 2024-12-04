@@ -37,7 +37,8 @@ The goal of this project is to design and construct a hovercraft capable of auto
 [![Watch the hovercraft in action!](https://img.youtube.com/vi/7OipNl-lfNY/hqdefault.jpg)](https://youtube.com/shorts/7OipNl-lfNY?feature=share)
 
 ### 📊 Demo Simulation
-![Simulation Video](media/simulation.mp4)
+https://github.com/user-attachments/assets/fb1dd721-60ee-400a-b57e-a87a8a98be0b
+
 
 ---
 
@@ -49,6 +50,7 @@ This project is carried out under the guidance of:
 - **Technical Lead**: Mr. Dmitry Rozhdestvenskiy  
 
 ---
+
 
 ## 🏫 License
 
