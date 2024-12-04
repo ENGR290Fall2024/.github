@@ -8,16 +8,15 @@ We are a team of five passionate and innovative computer and electrical engineer
 
 ## 👥 Team Members
 
+- **Brian Hariri** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/BrianHa03) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://linkedin.com/in/brian-i-hariri-60a4131b3) 
 
-- **Brian Hariri** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/BrianHa03) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://linkedin.com/in/brian-i-hariri-60a4131b3)
+- **Haouari Senouci Jawad** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/predateur324) 
 
-- **Haouari Senouci Jawad** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/predateur324)
+- **Joyal Biju Kulangara** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/Joyal99) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"/>](https://linkedin.com/in/jbk79) 
 
-- **Joyal Biju Kulangara** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/Joyal99) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"/>](https://linkedin.com/in/jbk79)
+- **Kevin Mandiouba** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/KevinMandiouba) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"/>](https://linkedin.com/in/kevinmandiouba) 
 
-- **Kevin Mandiouba** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/KevinMandiouba) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"/>](https://linkedin.com/in/kevinmandiouba)
-
-- **Mohamed Oubagha** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/c-moha) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"/>](https://linkedin.com/in/mohamed-oubagha-20799520a)
+- **Mohamed Oubagha** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/c-moha) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"/>](https://linkedin.com/in/mohamed-oubagha-20799520a) 
 
 ---
 
@@ -43,10 +42,32 @@ https://github.com/user-attachments/assets/57a25a63-2e0f-4f28-a6aa-a4b5feddf9d4
 
 
 ### 📊 Demo Simulation
-https://github.com/user-attachments/assets/fb1dd721-60ee-400a-b57e-a87a8a98be0b
-
+[![Simulation Video](media/simulation.mp4)](https://github.com/user-attachments/assets/fb1dd721-60ee-400a-b57e-a87a8a98be0b)
 
 ---
+
+## 📸 Project Gallery
+
+### 🖼️ Four-Sided View of the Hovercraft
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="/images/front.jpg" alt="Front View" width="300"/><br>Front
+    </td>
+    <td align="center">
+      <img src="/images/left.jpg" alt="Left View" width="300"/><br>Left
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="/images/right.jpg" alt="Right View" width="300"/><br>Right
+    </td>
+    <td align="center">
+      <img src="/images/top.jpg" alt="Top View" width="300"/><br>Top
+    </td>
+  </tr>
+</table>
 
 ## 🙌 Project Credits
 
