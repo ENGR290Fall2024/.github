@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/57a25a63-2e0f-4f28-a6aa-a4b5feddf9d4
 
 
 ### 📊 Demo Simulation
-![Simulation Video](media/simulation.mp4)
+[![Simulation Video](media/simulation.mp4)](https://github.com/user-attachments/assets/fb1dd721-60ee-400a-b57e-a87a8a98be0b)
 
 ---
 
