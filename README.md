@@ -42,6 +42,29 @@ https://github.com/user-attachments/assets/57a25a63-2e0f-4f28-a6aa-a4b5feddf9d4
 
 ---
 
+## 📸 Project Gallery
+
+### 🖼️ Four-Sided View of the Hovercraft
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/front.jpg" alt="Front View" width="300"/><br>Front
+    </td>
+    <td align="center">
+      <img src="images/left.jpg" alt="Left View" width="300"/><br>Left
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/right.jpg" alt="Right View" width="300"/><br>Right
+    </td>
+    <td align="center">
+      <img src="images/top.jpg" alt="Top View" width="300"/><br>Top
+    </td>
+  </tr>
+</table>
+
 ## 🙌 Project Credits
 
 This project is carried out under the guidance of:
