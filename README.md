@@ -38,11 +38,11 @@ The goal of this project is to design and construct a hovercraft capable of auto
 ## 🎥 Demo
 
 ### 🏁 Demo Competition Video
-https://github.com/user-attachments/assets/57a25a63-2e0f-4f28-a6aa-a4b5feddf9d4
+https://github.com/user-attachments/assets/4310a5a0-ce34-4bc3-b325-3abe8b695321
 
 
 ### 📊 Demo Simulation
-https://github.com/user-attachments/assets/fb1dd721-60ee-400a-b57e-a87a8a98be0b
+https://github.com/user-attachments/assets/1370f6cc-01ef-445b-a26a-686c61f942cb
 
 ---
 
@@ -58,6 +58,7 @@ https://github.com/user-attachments/assets/fb1dd721-60ee-400a-b57e-a87a8a98be0b
     <td align="center">
       <img src="images/left.jpg" alt="Left View" width="300"/><br>Left
     </td>
+
   </tr>
   <tr>
     <td align="center">
