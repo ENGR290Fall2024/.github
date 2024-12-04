@@ -8,15 +8,17 @@ We are a team of five passionate and innovative computer and electrical engineer
 
 ## 👥 Team Members
 
-- **[Brian Hariri](https://github.com/BrianHa03)** [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16"/>](https://linkedin.com/in/brian-i-hariri-60a4131b3)
 
-- **[Haouari Senouci Jawad](https://github.com/predateur324)**
-  
-- **[Joyal Biju Kulangara](https://github.com/Joyal99)** [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16"/>](https://linkedin.com/in/jbk79)
+- **Brian Hariri** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/BrianHa03) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://linkedin.com/in/brian-i-hariri-60a4131b3)
 
-- **[Kevin Mandiouba](https://github.com/KevinMandiouba)**  [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16"/>](https://linkedin.com/in/kevinmandiouba)
+- **Haouari Senouci Jawad** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/predateur324)
 
-- **[Mohamed Oubagha](https://github.com/c-moha)** [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16"/>](https://linkedin.com/in/mohamed-oubagha-20799520a)
+- **Joyal Biju Kulangara** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/Joyal99) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"/>](https://linkedin.com/in/jbk79)
+
+- **Kevin Mandiouba** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/KevinMandiouba) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"/>](https://linkedin.com/in/kevinmandiouba)
+
+- **Mohamed Oubagha** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="23"/>](https://github.com/c-moha) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"/>](https://linkedin.com/in/mohamed-oubagha-20799520a)
+
 ---
 
 ## 📖 Project Overview
