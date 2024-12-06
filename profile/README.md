@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/1370f6cc-01ef-445b-a26a-686c61f942cb
   </tr>
   <tr>
     <td align="center">
-      <img src="/images/right.jpg" alt="Right View" width="300"/><br>Right
+      <img src="/images/right.jpg" alt="Left View" width="300"/><br>Right
     </td>
     <td align="center">
       <img src="/images/top.jpg" alt="Top View" width="300"/><br>Top
